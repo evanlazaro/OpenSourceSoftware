@@ -22,39 +22,38 @@ Relating back to the title and theme of the book, what happened to Jessie for ac
 
 Another main takeaway from this story is to be cautious of the power of technology. As people become more and more interconnected in ways never previously imagined, it can be dangerous to be on the leading (or bleeding) edge. This is especially true when these new forms of technology undermine large and longstanding industries, and companies in these industries fight vigorously to remain relevant (ex taxi companies losing lots of revenue to uber/lyft).
 
-
-
 ## Linux
+
 
 
 ## Regex
 
 ### RegexOne
 
-![#1](/Resources/1.PNG)
-![#2](/Resources/2.PNG)
-![#3](/Resources/3.PNG)
-![#4](/Resources/4.PNG)
-![#5](/Resources/5.PNG)
-![#6](/Resources/6.PNG)
-![#7](/Resources/7.PNG)
+![#1](Resources/1.PNG)
+![#2](Resources/2.PNG)
+![#3](Resources/3.PNG)
+![#4](Resources/4.PNG)
+![#5](Resources/5.PNG)
+![#6](Resources/6.PNG)
+![#7](Resources/7.PNG)
 
 ## Regex Crossword
 
-![#1](/Resources/c1.PNG)
-![#2](/Resources/c2.PNG)
-![#3](/Resources/c3.PNG)
-![#4](/Resources/c4.PNG)
-![#5](/Resources/c5.PNG)
+![#1](Resources/c1.PNG)
+![#2](Resources/c2.PNG)
+![#3](Resources/c3.PNG)
+![#4](Resources/c4.PNG)
+![#5](Resources/c5.PNG)
 
 ## Blocky
 
-![Completed blocky puzzle](/Resources/blocky.PNG)
+![Completed blocky puzzle](Resources/blocky.PNG)
 
 ## Reflection
 
 I recently became the chair of the Web Technologies Group, a committee of the Student Senate which creates Open Source solutions for problems faced by Student Government and the student body. Some of these projects include the [Shuttle Tracker](https://shuttles.rpi.edu/), [Student Government Elections](https://elections.union.rpi.edu/), [Petitions](https://petitions.union.rpi.edu/), [Senate Survey](https://surveys.union.rpi.edu/), and the [WebTech website](https://webtech.union.rpi.edu/).
 
-Working on one of these projects seems pretty ideal as they are already in production and any work done will directly benefit students, will provide good practice taking on an already existing project, use technologies I am interested in learning, and are likely to continue for years to come.
+Working on one of these projects seems pretty ideal as they are already in production and any work done will directly benefit students, will provide good practice taking on an already existing project, use technologies I am interested in learning, and are likely to continue for years to come. In particular, the Petitions website has become quite outdated, and some members of RCOS have been working on a new version of the site, so a possible project could be to finish this new site and deploy it.
 
 However, I will still browse the other Open Source projects and see if any interest me as well.
