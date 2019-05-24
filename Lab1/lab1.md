@@ -52,3 +52,9 @@ Another main takeaway from this story is to be cautious of the power of technolo
 ![Completed blocky puzzle](/Resources/blocky.PNG)
 
 ## Reflection
+
+I recently became the chair of the Web Technologies Group, a committee of the Student Senate which creates Open Source solutions for problems faced by Student Government and the student body. Some of these projects include the [Shuttle Tracker](https://shuttles.rpi.edu/), [Student Government Elections](https://elections.union.rpi.edu/), [Petitions](https://petitions.union.rpi.edu/), [Senate Survey](https://surveys.union.rpi.edu/), and the [WebTech website](https://webtech.union.rpi.edu/).
+
+Working on one of these projects seems pretty ideal as they are already in production and any work done will directly benefit students, will provide good practice taking on an already existing project, use technologies I am interested in learning, and are likely to continue for years to come.
+
+However, I will still browse the other Open Source projects and see if any interest me as well.
