@@ -24,7 +24,7 @@ Another main takeaway from this story is to be cautious of the power of technolo
 
 ## Linux
 
-
+![#1](Resources/tree.png)
 
 ## Regex
 
