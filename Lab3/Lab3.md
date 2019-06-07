@@ -1,16 +1,26 @@
-# Documentation
+# Lab 3
 
-The problem area that your software is researching or a technology or technologies that you might want to explore.
+Evan Lazaro
 
-Existing Software that addreses similar problems and how yours will be different or better; or examples of projects in your area of interest. Check out LinksforPossibleProjects.md in the resoures area to get ideas of both.
+## Documentation
 
-Potential technologies you will use in your project; or any ideas about how where your technology might fit.
-The end product or goal.
+### Project
 
+As of now, I am still interested in pursuing a project in Web Development. However I am realizing that although basically all the open source projects I have seen / worked on at RPI have been web projects, other types of projects do exist.
 
-# Community
+While browsing through a list of "Awesome for beginners" repos on GitHub, I noticed Mattermost was on the list. This might be interesting since we are using it for this course, plus it is written in Go, a language I am interested in learning.
 
-## Repo Information
+I will likely end up choosing a Web project, so I am looking to use technologies like Go, Flask, Django, and/or Postgres since these are used in projects for the Web Technologies Group which I am a part of.
+
+### Latex
+
+![Latex1](Resources/latex1.png) <br><br>
+
+![Latex2](Resources/latex2.png)
+
+## Community
+
+### Repo Information
 
 https://github.com/AutomaticDoorControl/AutomaticDoorControl
 
@@ -21,7 +31,7 @@ https://github.com/AutomaticDoorControl/AutomaticDoorControl
 **The latest commit**: "Added Sample Door Data" on April 5, 2019 (cc3b6e9b5373ea4e828ad21be22a9bed023370de) <br>
 **The current branches**: Just one - Master
 
-## Gitstats
+### Gitstats
 
 ![gitstats](Resources/gitstats.png)
 
@@ -29,13 +39,13 @@ The numbers between gitstats and the information found on github and using git l
 
 This tool provides some really interesting visualizations for commits and timelines, I definitely plan to use it to explore repos in the future!
 
-## Gource
+### Gource
 
 ![gource](Resources/gource.png)
 
 While my video was pretty unexciting since there were not many commits/files, watching the gource for the person sitting next to me whose repo had over 1800 commits was really interesting to see - cool program!
 
-## Group Member Repos
+### Group Member Repos
 
 Sam - https://github.com/apexal/late   <br>
 **Number of contributors**: 13   <br>
