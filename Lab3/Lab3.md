@@ -14,9 +14,9 @@ I will likely end up choosing a Web project, so I am looking to use technologies
 
 ### Latex
 
-![Latex1](Resources/latex1.png) <br><br>
+![Latex1](Resources/Latex1.png) <br><br>
 
-![Latex2](Resources/latex2.png)
+![Latex2](Resources/Latex2.png)
 
 ## Community
 
