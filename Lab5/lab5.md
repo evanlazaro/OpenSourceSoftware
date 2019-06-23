@@ -56,7 +56,7 @@ Files: <br>
 
 Files: <br>
 [Manual Makefile](MakePractice/Makefile) <br>
-[CMake Makefile](MakePractice/Cmake_Makefile) <br>
+[CMake Makefile](MakePractice/CMake_Makefile) <br>
 [CMakeLists.txt](MakePractice/CMakeLists.txt) <br>
 
 
